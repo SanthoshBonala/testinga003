@@ -1,0 +1,34 @@
+
+[
+    {
+        "orderLine_id": 1,
+        "order_id": 100,
+        "product_id": 1,
+        "lineNo": 1,
+        "orderQuantity":2
+    },
+  {
+        "orderLine_id": 2,
+        "order_id": 100,
+        "product_id": 2,
+        "lineNo": 2,
+        "orderQuantity": 8
+    },
+   {
+        
+        "orderLine_id": 3,
+        "order_id": 101,
+        "product_id": 2,
+        "lineNo": 1,
+        "orderQuantity": 4
+    },
+
+      {
+        
+        "orderLine_id": 4,
+        "order_id": 102,
+        "product_id": 3,
+        "lineNo": 1,
+        "orderQuantity": 5
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "_id": 1,
+        "productName": "Acer Predator",
+        "productDescription": "Gaming beast",
+        "productPrice": 1699,
+        "productCategory": "Laptops"
+    },
+    {
+        "_id": 2,
+        "productName": "Xiaomi Redmi Note 5 Pro",
+        "productDescription": "India's No.1 Smartphone",
+        "productPrice": 220,
+        "productCategory": "Mobiles"
+
+    },
+    {
+        "_id": 3,
+        "productName": "Logitech Gaming Mouse",
+        "productDescription": "Gaming made better",
+        "productPrice": 120,
+        "productCategory": "Computer Accessories"
+
+    },
+    {
+        "_id": 4,
+        "productName": "JBL Bluetooth Speaker",
+        "productDescription": "Sound Better",
+        "productPrice": 600,
+        "productCategory": "Speakers"
+
+    }
+]

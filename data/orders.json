@@ -1,0 +1,38 @@
+[
+    {
+        "_id": 1,
+        "email": "white@nwmissouri.edu",
+        "datePlaced": "2018-11-13",
+        "dateShipped": "2018-11-14",
+        "paymentType": "credit card",
+        "amountDue": 21.71,
+        "paid": false
+    },
+    {
+        "_id": 2,
+        "email": "kancharla@nwmissouri.edu",
+        "datePlaced": "2018-11-13",
+        "dateShipped": "2018-11-14",
+        "paymentType": "cash",
+        "amountDue": 19.05,
+        "paid": true
+    },
+    {
+        "_id": 3,
+        "email": "meenavilli@nwmissouri.edu",
+        "datePlaced": "2018-11-13",
+        "dateShipped": "2018-11-14",
+        "paymentType": "no selection",
+        "amountDue": 25.72,
+        "paid": true
+    },
+    {
+        "_id": 4,
+        "email": "peddinti@nwmissouri.edu",
+        "datePlaced": "2018-11-13",
+        "dateShipped": "2018-11-14",
+        "paymentType": "check",
+        "amountDue": 10.09,
+        "paid": false
+    }
+]
