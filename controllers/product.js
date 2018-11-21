@@ -31,7 +31,7 @@ api.get('/findone/:id', (req, res) => {
 
 // GET to this controller base URI (the default)
 api.get('/', (req, res) => {
-  res.render('products/index.ejs')
+  res.render('Products/index.ejs')
 })
 
 // GET create
